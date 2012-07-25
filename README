@@ -1,0 +1,5 @@
+It is the python client of the QuickFix
+* It logs into the QuickFix server
+* It parse the market data message
+* It records the market data in the memory
+* Press "1" will write the snapshot into the local file, press "2" will exit
